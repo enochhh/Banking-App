@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/aws.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/Banking-App.iml
+out/
